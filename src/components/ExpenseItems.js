@@ -12,4 +12,4 @@ function ExpenseItem(props) {
   );
 }
 
-export default ExpenseItem;
+export default ExpenseItem; #here we are exporting the item to another file
