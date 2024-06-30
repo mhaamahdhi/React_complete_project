@@ -32,4 +32,4 @@ function App() {
 }
 
 export default App;
-///summa
+///summa delete panannum
